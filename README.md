@@ -56,7 +56,7 @@ The Pet Management System is a software application designed to manage informati
   - Description:  Creating records for pets including id which is auto-generated,name,age,breed and descrpition.
   - Method: POST
  
-  - Endpoint: `/append/{id}`
+- Endpoint: `/append/{id}`
   - Description:Update individual records using id .
   - Method: PUT
 
